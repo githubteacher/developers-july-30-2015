@@ -5,3 +5,4 @@
 - Favorite Octocat is the teachercat
 - Loves airplanes and trains
 - Hates mice
+- Loves food
