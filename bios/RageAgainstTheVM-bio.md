@@ -3,3 +3,4 @@
 - Does stuff
 - Adding some more stuff
 - Added another line from TextWrangler
+- Added line with Atom
