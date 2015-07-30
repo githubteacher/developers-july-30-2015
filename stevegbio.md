@@ -1,4 +1,5 @@
 ###Github Profile 
 
-- Lives in Washington
+- Lives in Washington, DC
+- Likes learn new things.
 
