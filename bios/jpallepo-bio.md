@@ -1,4 +1,3 @@
 ## jpallepo 
 
-- loves beach
-- likes travelling
+- loves beach St. Augustine
