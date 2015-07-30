@@ -3,3 +3,4 @@
 - From Connecticut
 - Lives in Chapel Hill, NC
 - Likes baseball
+- Likes finance
