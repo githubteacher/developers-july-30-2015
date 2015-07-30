@@ -1,4 +1,4 @@
 ## bryanjenningz
 
-- Likes pizza
+- Likes pepperoni pizza
 - Likes running
