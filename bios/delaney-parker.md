@@ -1,10 +1,10 @@
-WHOAMI
+#WHOAMI
 - Geek
 - Musician
 - Lives in Santa Cruz, CA
 
 
-TODO
+#TODO
 - [x] make coffee
 - [ ] put fire out
 - [ ] get back to work
