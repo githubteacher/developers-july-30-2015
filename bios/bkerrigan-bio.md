@@ -1,4 +1,4 @@
 ## bkerrigan
 
 - Lives in San Jose
-- Likes to golf
+- I would do anything for love, but I won't do 'var that = this;'
