@@ -1,5 +1,8 @@
 ### cjlemsBio
 
-- Lives in Denver, CO
+- Lives in Littleton, CO
 - Likes Hiking
 - is a noob
+
+#Correct syntax
+@rakshassa Noob.
