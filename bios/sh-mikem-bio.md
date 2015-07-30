@@ -10,5 +10,5 @@ Sunnyvale, CA
 
 #### And More Stuff:
 - Yet even more stuff
-- Ane yet even more stuff
+- And yet even more stuff
 - Added on github.com
