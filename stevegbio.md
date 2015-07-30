@@ -1,5 +1,6 @@
 ###Github Profile 
 
 - Lives in Washington, DC
-- Likes learn new things.
-
+- Likes learn to new things.
+-Like international travel
+-enjoys boating and fishing
