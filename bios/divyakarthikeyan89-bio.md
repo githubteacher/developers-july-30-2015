@@ -2,3 +2,4 @@
 
 * Lives in California
 * Likes music
+* Adding new stuff
