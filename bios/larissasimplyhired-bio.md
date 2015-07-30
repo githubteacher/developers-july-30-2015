@@ -3,3 +3,4 @@
 - [ ] i can haz coffee?
 - has a dog
 - likes candy
+- lives in San Jose
