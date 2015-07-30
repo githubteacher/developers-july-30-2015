@@ -5,7 +5,7 @@
 - Occupation: Security Software Engineer
 - Hobbies: Volleyball, board games, video games, Rock climbing
 
-#better syntax
-@cjlems is the best.
 
+@cjlems Noob
+@cjlems yeah, still a noob
 
