@@ -4,11 +4,9 @@
 - Nemesis: cjlems
 - Occupation: Security Software Engineer
 - Hobbies: Volleyball, board games, video games, Rock climbing
-- Skills: Nunchuck skills
+- Skills: Great pooper.
 
 
-@cjlems Noob
-@cjlems yeah, still a noob
 
 
 more changes
