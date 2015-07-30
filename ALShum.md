@@ -1,3 +1,8 @@
+
+
+
+
+
 ## About me: www.github.com/ALShum
 
 ### Likes:
@@ -10,3 +15,6 @@
 
 ### SECRET
 * dsflksdfsd
+
+#### TODO:
+* Figure out rickrolling
