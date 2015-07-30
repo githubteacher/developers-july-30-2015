@@ -5,5 +5,6 @@
 
 ## TODO
 - [x] Make Tea
-- [x] Drink Tea
+- [ ] Pour Tea
+- [ ] Drink Tea
 
