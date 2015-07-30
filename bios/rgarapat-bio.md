@@ -2,4 +2,4 @@
 - likes coding
 - likes cooking
 - likes sleeping
-- likes....
+- likes my native language - Telugu
