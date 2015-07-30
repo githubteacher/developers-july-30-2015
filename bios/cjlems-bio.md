@@ -1,8 +1,8 @@
 ### cjlemsBio
 
 - Lives in Littleton, CO
-- Likes Hiking
-- is a noob
+- Likes Hiking, Climbing
+- is a Rockstar.
 
 #Correct syntax
 @rakshassa Noob.
